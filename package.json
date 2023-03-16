@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CR-File.js",
+  "scripts": {
+    "dev": "nodemon serveur.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
